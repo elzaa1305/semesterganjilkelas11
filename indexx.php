@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Title belajar PHP</title>
+    <title>belajar PHP</title>
 </head>
 
 <body>
